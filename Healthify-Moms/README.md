@@ -8,8 +8,7 @@ This project aims at creating a comfort mindspace and health tracker for women i
 
 ## Project Repository 
 
-```https://github.com/Shanaya17/HEALTHIFY-MOMS-BITS-N-BYTES
-```
+https://github.com/Shanaya17/HEALTHIFY-MOMS-BITS-N-BYTES
 
 ## Site Map
 The contents in this project follow the following structure.
